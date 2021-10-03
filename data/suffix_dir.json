@@ -1,0 +1,9 @@
+{
+    ".jpg" : "images",
+    ".mp4" : "images",
+    ".pdf" : "docs" ,
+    ".rar" : "compressed",
+    ".zip" : "compressed",
+    ".xls" : "docs",
+    ".csv" : "docs"
+}
